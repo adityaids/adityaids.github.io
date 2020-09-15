@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Project
 
 [Project 1 Title](/sample_page)
 <img src="images/thumbnail.jpg?raw=true"/>
+Ini adalah project yang saya buat, dalam project ini saya mencoba mengimplementasikan sebuah mock-up
+design yang saya temukan di instagram yaitu dari @ui.squirel
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Wallpaper HD](/sampel_page)
+<img src="images/thumbnail2.jpg?raw=true"/>
+
+---
+[User Github Example](/sample_page)
 <img src="images/thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
+### Link Project
 
 - [UI Nature Sample](https://github.com/adityaids/NatureExploreSampleUI)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Wallpaper HD](https://play.google.com/store/apps/details?id=com.indeep.hd.wallpaper)
+- [User Github Example](http://example.com/)
 
 ---
 
